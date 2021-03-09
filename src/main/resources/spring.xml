@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean id="exampleThreeService"
+          class="com.example.demo.service.ExampleThreeService">
+        <property name="message" value="Hello xml"/>
+    </bean>
+
+    <bean id="exampleThreeAgainService"
+          class="com.example.demo.service.ExampleThreeService">
+        <property name="message" ref="randomIDFactory"/>
+    </bean>
+
+    <bean id="randomIDFactory" class="com.example.demo.service.RandomNameFactory" factory-method="getRandom" />
+
+
+</beans>

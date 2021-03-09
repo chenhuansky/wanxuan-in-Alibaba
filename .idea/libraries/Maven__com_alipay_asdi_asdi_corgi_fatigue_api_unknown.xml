@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alipay.asdi:asdi-corgi-fatigue-api:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/asdi/asdi-corgi-fatigue-api/unknown/asdi-corgi-fatigue-api-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/asdi/asdi-corgi-fatigue-api/unknown/asdi-corgi-fatigue-api-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/asdi/asdi-corgi-fatigue-api/unknown/asdi-corgi-fatigue-api-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

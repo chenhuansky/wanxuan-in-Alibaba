@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alipay.cdp:cdp-common-client-fatigue:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/cdp/cdp-common-client-fatigue/unknown/cdp-common-client-fatigue-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/cdp/cdp-common-client-fatigue/unknown/cdp-common-client-fatigue-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/cdp/cdp-common-client-fatigue/unknown/cdp-common-client-fatigue-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

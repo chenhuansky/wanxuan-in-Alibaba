@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SmartFoxWorkToolsProjectState">
+    <option name="branch" value="master" />
+    <option name="gitUrl" value="git@gitlab.alibaba-inc.com:idlefish/idlecenter.git" />
+    <option name="localBranch" value="master" />
+    <option name="revision" value="ee7201bf0f6d8e4fa718c6cc139dfb5ca3a3060b" />
+  </component>
+</project>
